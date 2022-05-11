@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nikos Christopoulos (@christopni)
 - 👀 I’m interested in web development and graphic design
 - :computer: I’m currently studying Electrical and Computer Engineering at National Technical University of Athens
-- 📫 You can reach me via email: nchristopoulos.gd@gmail.com
+- 📫 You can reach me via email: christopni@yahoo.com
 
 <!---
 christopni/christopni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
